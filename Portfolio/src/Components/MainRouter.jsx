@@ -7,8 +7,9 @@ import Services from '../Pages/Services'
 import Project from '../Pages/Project'
 import Layout from './Layout'
 
+//STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: MainRouter.jsx
 
-const MainRouter = () => {
+const MainRouter = () => { //route links
         return (<div>
     <Layout />
     <Routes>

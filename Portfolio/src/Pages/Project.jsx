@@ -16,9 +16,9 @@ import Other3 from "../natashya-peddle-stylized-medieval-dinner-0031.png"
 import Other4 from "../natashya-peddle-abandonedsubway-rendermain-natashyapeddle.png"
 
 
+//STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: Project.jsx
 
-
-export default function Project() {
+export default function Project() { // project description + image linked through name imports
     return (
         <div>
             <h2>My Projects</h2>

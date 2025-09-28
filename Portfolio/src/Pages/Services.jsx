@@ -1,5 +1,8 @@
+
+//STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: Services.jsx
+
 export default function Services() {
-     return (
+     return ( // text block with list of bullet points
         <div>
                 
                 <h2>Services</h2>

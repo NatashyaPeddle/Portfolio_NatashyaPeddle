@@ -1,14 +1,17 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+//STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: Home.jsx
+
+
 
 // Home Component
 // test comment
 export default function Home() {
 
     
-     return (
-    <div>
+     return ( // basic text information & button
+    <div> 
             <h2>Home</h2>
                 <p>Welcome to my portfolio!
 
@@ -29,7 +32,8 @@ export default function Home() {
                     <br />
                     Find out more about me here!
 
-                    <div className="button-container">
+                    
+                    <div className="button-container"> 
                         <ul>
                             <li><Link to="/about">About</Link></li>
                             <li><Link to="/projects">Projects</Link></li>

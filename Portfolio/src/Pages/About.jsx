@@ -3,8 +3,10 @@ import { Link } from 'react-router-dom';
 import profileImage from '../20250906_151119.jpg';
 import resumePDF from '../NATASHYAPEDDLE_2025_PDF.pdf';
 
+//STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: About.jsx
+
 export default function About() {
-     return (
+     return ( //text block + selfie + resume link
         <div>
                 <h2>About Me</h2>
                 <p>My name is Natashya Peddle!
