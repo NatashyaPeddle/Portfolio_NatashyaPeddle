@@ -65,5 +65,5 @@ export default function Project() { // project description + image linked throug
                 <br /><br /> <hr /> <br /><br />
             </p>
         </div>
-    );
+    )
 }
