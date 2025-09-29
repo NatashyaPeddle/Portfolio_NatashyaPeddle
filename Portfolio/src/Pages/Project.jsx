@@ -1,25 +1,25 @@
-//import Ubisoftimg1 from '../natashya-peddle-ubisoft-next-lvl-natashyapeddle-0068.png';
-//import Ubisoftimg2 from "../natashya-peddle-ubisoft-next-2024-beautyshot-1.png";
-//import Ubisoftimg3 from "../natashya-peddle-ubisoftnext2024-3dart-heropropbreakdown.png";
-//import Ubisoftimg4 from "../natashya-peddle-ubisoft-next-2024-earlystages.png"
+import Ubisoftimg1 from '../natashya-peddle-ubisoft-next-lvl-natashyapeddle-0068.png';
+import Ubisoftimg2 from "../natashya-peddle-ubisoft-next-2024-beautyshot-1.png";
+import Ubisoftimg3 from "../natashya-peddle-ubisoftnext2024-3dart-heropropbreakdown.png";
+import Ubisoftimg4 from "../natashya-peddle-ubisoft-next-2024-earlystages.png"
 
-//import FMAR1 from "../Flymearoundtheroom2.jpg"
-//import FMAR2 from "../Flymearoundtheroom.jpg"
-//import FMAR3 from "../spritesheetplantscene.png"
+import FMAR1 from "../Flymearoundtheroom2.jpg"
+import FMAR2 from "../Flymearoundtheroom.jpg"
+import FMAR3 from "../spritesheetplantscene.png"
 
-//import SCimg1 from "../MRC-HoldingSpace-Molana-Sketch_Exploration_Environment_BAZAAR_BUTCHER_SHOP_NP_03.png"
-//import SCimg2 from "../CHARACTER_CONCEPT_GREEDYBUTCHER_NATASHYAPEDDLE.png"
+import SCimg1 from "../MRC-HoldingSpace-Molana-Sketch_Exploration_Environment_BAZAAR_BUTCHER_SHOP_NP_03.png"
+import SCimg2 from "../CHARACTER_CONCEPT_GREEDYBUTCHER_NATASHYAPEDDLE.png"
 
-//import Other1 from "../natashya-peddle-esg1.jpg"
-//import Other2 from "../natashya-peddle-esg2.jpg"
-//import Other3 from "../natashya-peddle-stylized-medieval-dinner-0031.png"
-//import Other4 from "../natashya-peddle-abandonedsubway-rendermain-natashyapeddle.png"
+import Other1 from "../natashya-peddle-esg1.jpg"
+import Other2 from "../natashya-peddle-esg2.jpg"
+import Other3 from "../natashya-peddle-stylized-medieval-dinner-0031.png"
+import Other4 from "../natashya-peddle-abandonedsubway-rendermain-natashyapeddle.png"
 
 
 //STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: Project.jsx
 
 export default function Project() { // project description + image linked through name imports
-    return //(
+    return (
         <div>
             <h2>My Projects</h2>
             <p>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import logo from '../LOGO.jpg';
+import logo from '../LOGO.jpg';
 
 //STUDENT INFORMATION: Name: Natashya Peddle / StudentID: 301487275 / Date: September 27th 2025 / File Name: Portfolio: Layout.jsx
 
